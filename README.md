@@ -1,3 +1,5 @@
+<html>
+<head>
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,700&display=swap');
     body {
@@ -67,7 +69,7 @@
         background-color: #3182ce;
     }
 </style>
-
+</head>
 <body>
     <div class="container">
         <div class="card">
@@ -86,18 +88,4 @@
         </div>
     </div>
 </body>
-
-<!--
-**hgodinez89/hgodinez89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</html>
