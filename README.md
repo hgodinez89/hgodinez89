@@ -71,7 +71,7 @@
 </style>
 </head>
 <body>
-    <div class="container">
+    <div style="display: flex; height: 100vh; justify-content: center; align-items: center;">
         <div class="card">
             <div class="header-image">
                 <img src="https://res.cloudinary.com/developerteam/image/upload/v1578798371/PortfolioWeb/IMG_4288_i41hhq.jpg" alt="Profile">
