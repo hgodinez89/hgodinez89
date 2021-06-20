@@ -24,6 +24,11 @@
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
+- [What is a shelve in Python?](https://blog.devgenius.io/what-is-a-shelve-in-python-dbf8561d014f?source=rss-65eb3bcc3187------2)
+- [What is Python for loop?](https://blog.devgenius.io/what-is-python-for-loop-72faa2c0d470?source=rss-65eb3bcc3187------2)
+- [Python Dictionary Operations](https://blog.devgenius.io/python-dictionary-operations-68e19b08ea30?source=rss-65eb3bcc3187------2)
+- [Python String Operations](https://blog.devgenius.io/python-string-operations-f8eeabf8eb71?source=rss-65eb3bcc3187------2)
+- [Python List Operations](https://blog.devgenius.io/python-list-operations-56bf7f93e39c?source=rss-65eb3bcc3187------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
