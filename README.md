@@ -22,7 +22,7 @@
 <code>console.log("JavaScript");</code>  
 <code>> You can see more on my [Website](https://hanzelgodinez.dev/)_</code>
 
-### Wanna see my blogs:question::fire:
+### Would you like to see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
 - [What is a shelve in Python?](https://blog.devgenius.io/what-is-a-shelve-in-python-dbf8561d014f?source=rss-65eb3bcc3187------2)
 - [What is Python for loop?](https://blog.devgenius.io/what-is-python-for-loop-72faa2c0d470?source=rss-65eb3bcc3187------2)
