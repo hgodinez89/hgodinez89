@@ -1,7 +1,7 @@
 ## <img src="https://res.cloudinary.com/developerteam/image/upload/v1578798463/PortfolioWeb/favicon_wc1uzv.png" width="30px">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Hanzel Godinez</h1>
-<p align="center"><img src="https://res.cloudinary.com/developerteam/image/upload/v1624222299/PortfolioWeb/webqr.png" width="100px"></p>
+<p align="center"><img src="https://res.cloudinary.com/developerteam/image/upload/v1644978160/PortfolioWeb/webqrcom.png" width="100px"></p>
 <h3 align="center">I am a multidisciplinary software developer and I love technology, reading, and learning about new things continuously.</h3>
 
 <p align="left"> <img src="https://res.cloudinary.com/developerteam/image/upload/v1578798371/PortfolioWeb/profile_readme.jpg" alt="Hanzel Godinez" width="220px" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning about **DevOps and Blockchain**
 
-- 👨‍💻 All about me is available at [My Website](https://hanzelgodinez.dev/)
+- 👨‍💻 All about me is available at [My Website](https://hanzelgodinez.com/)
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@hgodinez89)
 
@@ -20,7 +20,7 @@
 <code>DBMS_OUTPUT.Put_Line('PL/SQL');</code>     
 <code>print("Python")</code>  
 <code>console.log("JavaScript");</code>  
-<code>> You can see more on my [Website](https://hanzelgodinez.dev/)_</code>
+<code>> You can see more on my [Website](https://hanzelgodinez.com/)_</code>
 
 ### Would you like to see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
@@ -62,7 +62,7 @@
    <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
    <a href="https://cloud.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
    <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-   <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank">
+   <a href="https://kubernetes.io" target="_blank">
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
